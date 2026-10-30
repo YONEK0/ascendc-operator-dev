@@ -218,3 +218,5 @@ python harness/pack_submission.py
 - 标准自定义算子工程（`op_host` + `op_kernel`）：[references/prompt-templates.md](references/prompt-templates.md) 第二节。
 
 这两个模板只在「一次性生成」场景使用；日常增量开发仍按路由表加载对应专项技能，不要默认加载本文件。
+
+<!-- OB-S:ZBfhzE5oggrt3EVI3QHC2w -->
