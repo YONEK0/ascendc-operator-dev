@@ -1,0 +1,26 @@
+NOTICE
+
+This Skill includes material from Huawei Technologies Co., Ltd.,
+licensed under the CANN Open Software License Agreement Version 2.0.
+
+Files carrying Huawei copyright headers or CANN license notices include,
+but are not limited to, the following directories:
+
+- references/ascendc-performance-best-practices/
+- references/ops-design-paradigms/
+- references/ascendc-direct-invoke-template/
+- references/ascendc-whitebox-design/
+- references/ops-direct-invoke-flash/
+- references/ascendc-sync-audit/
+- references/ascendc-st-design/
+- references/ascendc-crash-debug/
+
+All such files retain their original copyright and license notices.
+Do not remove, obscure, or alter those notices when redistributing.
+
+The original workflow text, routing structure, and local helper scripts
+in this Skill are provided by the Skill author under the same license
+unless otherwise stated.
+
+See LICENSE for the full text of the CANN Open Software License
+Agreement Version 2.0.
